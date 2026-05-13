@@ -2,7 +2,7 @@
 
 A collection of ready-to-use components library built with plain HTML, CSS and JavaScript.
 
-**[Documentation](https://themohit1.github.io/VegaUI/pages/)**
+**[Documentation](https://mohitksahu1.github.io/VegaUI/pages/)**
 
 ---
 
